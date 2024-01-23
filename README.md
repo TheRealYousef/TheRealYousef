@@ -49,4 +49,4 @@
 
 ### ♾️ &nbsp;Github stats
 
- ![](https://github-readme-stats.vercel.app/api?username=TheRealYousef\&rank_icon=percentile&show_icons=true&theme=github_dark&border_radius=8)  ![](https://github-readme-streak-stats.herokuapp.com/?user=TheRealYousef&theme=github_dark&border_radius=8)
+ ![](https://github-readme-stats.vercel.app/api?username=TheRealYousef\&rank_icon=percentile&show_icons=true&theme=github_dark&border_radius=8)  
